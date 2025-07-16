@@ -18,7 +18,7 @@ Before setting up your Canon printer wirelessly, ensure you have the following:
 - A laptop or computer connected to the same Wi-Fi network
 - Optional but recommended: Printer driver software (available on the setup CD or downloadable from the Canon support page)
 
-*For a guided setup specific to your printer model, use Print Assist – Canon’s step-by-step video tutorial platform.*
+*For a guided setup specific to your printer model, use Print Assist – Canon’s step-by-step video tutorial platform.* `Click Here: Get the Live Canon Printer Support <https://jivo.chat/KlZSRejpBm>`_
 
 How to set up wireless printing on your laptop or computer:
 -----------------------------------------------------------
